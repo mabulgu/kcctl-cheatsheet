@@ -1,0 +1,4 @@
+[submodule "asciidoctor-web-pdf"]
+	path = asciidoctor-web-pdf
+	url = https://github.com/ggrossetie/asciidoctor-web-pdf.git
+	branch = v1.0.0-alpha.16
